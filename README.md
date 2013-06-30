@@ -5,7 +5,9 @@ Sample data that works for Ushahidi platform. Here you will find sample data to 
 
 Available Formats
 =================
-I will try to provide data in several formats and if possible separately for different versions.
+I will try to provide data in several formats and if possible separately for different versions. The proposed formats for now are : 
+* MySQL
+* CSV (CSV zip bundle for each table)
 
 Want to participate ?
 =====================
